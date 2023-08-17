@@ -63,8 +63,7 @@ li:hover {
 article {
     background-color: white;
     text-align: justify;
-    
-    
+    width: 80vw;
     margin: auto;
     padding: 20px;
     border-radius: 10px;
